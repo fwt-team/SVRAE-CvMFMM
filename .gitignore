@@ -1,0 +1,13 @@
+.DS_Store
+datasets/
+.idea
+vae/__pycache__/*
+vmfmm/__pycache__/*
+hyperspherical_vae/__pycache__/*
+hyperspherical_vae/ops/__pycache__/*
+hyperspherical_vae/distributions/__pycache__/*
+vae/runs
+nilearn_cache/
+runs/
+results/
+
